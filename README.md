@@ -2,7 +2,11 @@
 <h3 align="center">An enthusiastic Chinese coder</h3>
 
 - 📫 How to reach me **81623581@qq.com**
-
+### Introduction
+- 🧑‍⚕️ 伊利诺伊香槟分校商业分析研究生
+- 🌱 略懂机器学习|因果推断|统计分析
+- 🎸 吉他能弹响
+- 🐶 狗狗铲屎官
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/子源-王-b15b62323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/子源-王-b15b62323" height="30" width="40" /></a>
